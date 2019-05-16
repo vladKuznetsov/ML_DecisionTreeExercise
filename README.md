@@ -10,7 +10,7 @@ This is a simple project to demonstrate supervised machine learning using Desisi
     - Apply GridSearch framework from Scikit-learn to this model: 
       Parameter tuning is performed with exhaustive grid search on tuples (tree-depth, PCA redaction to given
       number of parameters, random initial state) using accuracy, precision, and recall estimators
-6. Results are presented on stdout and in a few graphs made with matplotlib
+6. Present results on stdout and in a few graphs made with matplotlib
 
 Requirements:  
    Python 3.7; compatibility with other versions is not tested. 
