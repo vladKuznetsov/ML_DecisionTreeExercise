@@ -2,7 +2,7 @@
 This is a simple project to demonstrate supervised machine learning using DesisionTree model for classification.  
 
 1. Create a DecisionTree Model
-2. Perform data clean-up (removing NoNs, converting categorical features to one-hot values, and creating ndarray) using Pandas and NumPy
+2. Perform data clean-up (remove NoNs, convert categorical features to one-hot values, and create ndarray) using Pandas and NumPy
 3. Perform random sampling of cleaned data: 80% training, 20% testing. Train the model to evaluate performance. 
 4. Apply PCA to this model to reduce dimensionality of the feature set.
 5. Tune the model:
