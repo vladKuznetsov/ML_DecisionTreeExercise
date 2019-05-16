@@ -6,9 +6,9 @@ This is a simple project to demonstrate supervised machine learning using Desisi
 3. Perform random sampling of cleaned data: 80% training, 20% testing. Train the model to evaluate performance. 
 4. Apply PCA to this model to reduce dimensionality of the feature set.
 5. Tune the model:
-    - using cross-validation with 6-folds for different tree depths and display results on stdout
+    - Use cross-validation with 6-folds
     - Apply GridSearch framework from Scikit-learn to this model: 
-      Parameter tuning is performed with exhaustive grid search on tuples (tree-depth, PCA redaction to given
+      Parameters tuning is performed with exhaustive grid search on tuples (tree-depth, PCA redaction to given
       number of parameters, random initial state) using accuracy, precision, and recall estimators
 6. Present results on stdout and in a few graphs made with matplotlib
 
